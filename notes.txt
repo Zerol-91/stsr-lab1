@@ -1,3 +1,4 @@
 Lab 1: Git basics
 git init creates a repository
 Branches isolate changes
+Partner: fork and pull request
