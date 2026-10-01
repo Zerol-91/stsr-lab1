@@ -1,1 +1,2 @@
 1. Install Git
+2. Create first commit
